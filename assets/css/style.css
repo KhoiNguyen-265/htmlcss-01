@@ -611,6 +611,11 @@ a {
     justify-content: center;
     width: 28px;
     height: 28px;
+    background: #f9f9f9;
+}
+
+.footer .social-link + .social-link {
+    margin-left: 16px;
 }
 
 .footer .social-link:hover {
