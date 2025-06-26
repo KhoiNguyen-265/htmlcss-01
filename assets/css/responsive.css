@@ -210,6 +210,10 @@
         grid-template-columns: 1fr;
     }
 
+    .featured .item .label {
+        font-size: 1.3rem;
+    }
+
     .featured .view-all {
         display: flex;
         justify-content: center;
